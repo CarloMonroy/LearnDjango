@@ -1,0 +1,13 @@
+eara el virtuan env: pipenv
+despues pipenv shell
+
+Para instalar Django es install Django
+
+Para iniciar un projecto en django:
+django-adming startproject <project-name>
+
+python manage.py para las opciones del server
+
+python manage.py runserver para lanzar el servidor local
+
+
